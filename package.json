@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node ./deploy.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "terser": "^5.17.3",
+    "shelljs": "^0.8.5"
+  }
+}
